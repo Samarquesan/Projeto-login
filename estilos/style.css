@@ -52,3 +52,12 @@ section#idlogin > div#idformulario {
     display: block;
     padding: 10px   ;
 }
+div#idformulario > h1 {
+    text-align: center;
+    margin-bottom: 10px;
+
+}
+
+div#idformulario > p {
+    font-size: 0.8em;
+}
